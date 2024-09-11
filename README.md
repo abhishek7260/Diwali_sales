@@ -18,7 +18,7 @@ The project is implemented using the following libraries:
 
 **seaborn** and **matplotlib**: for data visualization
 
-Dataset Description
+**Dataset Description**
 
 The dataset used for this analysis contains 11,251 records and 15 features:
 
